@@ -26,5 +26,41 @@
             android:backgroundTint="@color/blue"
             android:layout_gravity="center"
             />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+                android:layout_width="0dp"
+                android:layout_height="70dp"
+                android:text="Promjeni"
+                android:id="@+id/mainUpdate"
+                android:textSize="18dp"
+                android:padding="16dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/blue"
+                app:strokeColor="@color/blue"
+                app:strokeWidth="2dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="10dp"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:layout_width="0dp"
+                android:layout_height="70dp"
+                android:text="Izbriši"
+                android:id="@+id/mainDelete"
+                android:textSize="18dp"
+                android:padding="16dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/blue"
+                app:strokeColor="@color/blue"
+                app:strokeWidth="2dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"/>
+        </LinearLayout>
     </LinearLayout>
 </LinearLayout>
