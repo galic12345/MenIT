@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MenIT"
 include(":app")
- 
+include(":ra")
