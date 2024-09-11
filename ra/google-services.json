@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828096636533",
+    "project_id": "menit-b1efa",
+    "storage_bucket": "menit-b1efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828096636533:android:69803e0b0df5bb38fafa3c",
+        "android_client_info": {
+          "package_name": "com.example.menit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrE-0l002ZGpmqaBkPAaG76iO9bk9Lr4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828096636533:android:a0eae8831d81665efafa3c",
+        "android_client_info": {
+          "package_name": "com.example.ra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrE-0l002ZGpmqaBkPAaG76iO9bk9Lr4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
