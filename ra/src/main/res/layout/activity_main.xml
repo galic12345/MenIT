@@ -13,8 +13,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginTop="550dp"
-        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center"
         android:padding="20dp">
 
         <Button
@@ -24,8 +24,7 @@
             android:id="@+id/mainUpload"
             android:textSize="18sp"
             android:backgroundTint="@color/blue"
-            android:layout_marginTop="20dp"
-            android:layout_marginEnd="10dp"
-            android:layout_marginStart="10dp"/>
+            android:layout_gravity="center"
+            />
     </LinearLayout>
 </LinearLayout>
